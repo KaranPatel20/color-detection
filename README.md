@@ -1,5 +1,5 @@
 # A color detection tool build with Python
-## This code uses open-cv for getting the RGB values of a point and the calculaate minimum distance from all colours and get most matching colour
+## This code uses open-cv for getting the RGB values of a point and the calculate minimum distance from all colours and get most matching colour
 
 ### Libraries Required:
   1) Open-CV (pip install opencv-python)
